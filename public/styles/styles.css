@@ -1,0 +1,28 @@
+form {
+  margin: auto;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+body {
+  text-align: center;
+}
+
+input {
+  margin: 20px;
+  font-size: 40px;
+
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+button {
+  font-size: large;
+
+}
