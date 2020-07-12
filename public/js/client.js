@@ -6,7 +6,6 @@ const msg2 = document.querySelector("#msg-2");
 
 
 
-var myKey = config.SECRET_KEY;
 weatherForm.addEventListener('submit', (event) => {
     event.preventDefault();
     const location = search.value;
